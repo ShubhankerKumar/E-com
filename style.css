@@ -1,0 +1,46 @@
+body{
+    background-color: #00B2E6;
+}
+.second{
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.my-card{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.my-card .card{
+    width: 250px;
+    margin: 20px;
+}
+.footer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    height: 250px;
+    background-color: rgb(77, 74, 74);
+    margin-top: 20px;
+}
+.footer .inside{
+    margin:100px;
+}
+.list{
+    color: white;
+}
+.footer .inside h3{
+    color: white;
+}
+.copy{
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(35, 35, 35);
+    color: white;
+}
